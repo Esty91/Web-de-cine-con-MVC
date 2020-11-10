@@ -1,4 +1,7 @@
 <html>
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
 <body>
 <h1>App Cine</h1><br>
 

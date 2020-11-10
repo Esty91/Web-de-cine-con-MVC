@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+html{
+	background-color: violet;
+}
+h1{
+	font-size: 50px;
+	
+}
+form{
+	background-color: violet;
+	
+}
+table,th,td{
+	background-color: violet;
+	border: 1px solid white;
+	padding: 2px;
+}
+
+input{
+	background-color: lightgreen;
+	border: 2px solid white;
+}
